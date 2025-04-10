@@ -21,14 +21,32 @@
 (Em breve, adicionarei repositórios com mapas, scripts em R e arquivos de análise)
 
 
-🛠 Tecnologias e Ferramentas
+<p align="left">
+  <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" />
+  </a>
+  <!-- QGIS -->
+  <a href="https://qgis.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/qgis/QGIS/master/images/icons/qgis-icon-512x512.png" alt="QGIS" width="40" />
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" />
+  </a>
 
-![R]((https://www.r-project.org))
-![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/-GEE-34A853?style=flat-square&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
+<p align="left">
+  <!-- Email -->
+  <a href="mailto:deyvidborges2024@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-📫 Contato
-- 📧 deyvidborges2024@gmail.com
+  <!-- Instagram -->
+  <a href="https://instagram.com/deyvid_borges21" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <!-- Lattes -->
+  <a href="http://lattes.cnpq.br/5608640073178179" target="_blank">
+    <img src="https://img.shields.io/badge/-Lattes-0072B5?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABgUlEQVRYR+2XzU3DMBBFz6bQgA7ACegA7gA7oAO0AO0AO4APd2Vnxq+KTTqG+ufumWGZPkUrMnMzmj8BHQDnAArQFhFsGsAJ9oHZF4mE+EGIcmqwqA9CTwVRAgjgr+Afi9WQU5FgAZgLZAFyhkCzEovL0QOmwYhkgyoZgSW7gBHBOUAb1uTTRCBmWv9hIscsR+qhvEvHBSakEjDTtMTZ5URK6ytYgGHUfrU+PVs4e0+AjEcOHNEQOYz8sH6+6UqYMx9gpMl6sXBlTVUCvRAEtTEtRxRZ+H9EnXYn2skWhiMwPAIbHHNQemBNYbbU+ItkAXND9zqxgko+1AdJ1a4f5+QuzS
